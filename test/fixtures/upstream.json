@@ -1,0 +1,36 @@
+{
+  "repository": "extrawurst/gitui",
+  "revision": "d7214eccb3cac52ce3f8d9ca18f218671821eeee",
+  "paths": [
+    "THEMES.md",
+    "src/ui/style.rs"
+  ],
+  "checked": "2026-10-21",
+  "contract": "ron",
+  "fields": [
+    "selected_tab",
+    "command_fg",
+    "selection_bg",
+    "selection_fg",
+    "use_selection_fg",
+    "cmdbar_bg",
+    "disabled_fg",
+    "diff_line_add",
+    "diff_line_delete",
+    "diff_file_added",
+    "diff_file_removed",
+    "diff_file_moved",
+    "diff_file_modified",
+    "commit_hash",
+    "commit_time",
+    "commit_author",
+    "danger_fg",
+    "push_gauge_bg",
+    "push_gauge_fg",
+    "tag_fg",
+    "branch_fg",
+    "line_break",
+    "block_title_focused",
+    "syntax"
+  ]
+}
