@@ -5,10 +5,10 @@
     "capture/app.py": "fe4b219d1e9d7346319e3e675dd6ca5426cff21f023c4a2f4cdf26c2169c3c73",
     "capture/config.json": "803b05ed62508c292b980cf0fc20bb3eea27a7c5d6faec91d2f3262017842360",
     "capture/flake.lock": "e3750f7ba25d0b1971722cdd83b2f07e32528980a4d6a9a1ea55177747de5752",
-    "capture/flake.nix": "1b98d35cbb25d3a4b68717a387375be055df9a39597abad64253c5690d96c620",
+    "capture/flake.nix": "71af8a602aaf254836d6de1f8fc21bcc0dfe13c06838a7c050f1cf1a42833ae3",
     "palette/theme.json": "d735cf005e3b2807953226c0119e384f6f8a3d2b3167443371cb302a8c689cdb",
     "port.json": "5c07984136f6f1dd1e370e3ed4a05c75e75a9d5422be31c3dc239cc6164722db",
-    "scripts/capture.py": "6830da447e48a4ab5511012b5222763677214e8a98683b94c60248765202ca9f",
+    "scripts/capture.py": "dcb8dc5d8a6ecbf2eb998eab90d678c745c9de6e9d35ded82edc0a949cb7e4e8",
     "themes/living-code-frost.ron": "768686ac7a80eecc244f66bddce7ecc3e9dc42ddfe7289ddd3eb782c0fcbb278",
     "themes/living-code-frost.tmTheme": "b0fdf04f6251f99dfbed12c333f95fca07538017701e4f9f78ef66718c422c89",
     "themes/living-code-night.ron": "5fbe022b4b01dd7d7941790a643f54bcb50fe093e6097e3342b09d926fcbd54e",
@@ -21,7 +21,7 @@
   "images": {
     "night": {
       "path": "images/night.png",
-      "sha256": "c29511a76062b40eccfd41ffee95a25788be465dd5b6378ac8fa9ef336d9d688",
+      "sha256": "8f44cdba01b954e60be97caec4c512c18967c9fe924e2dd6f262d0a5885d9ee8",
       "application": "gitui 0.28.1",
       "paletteColors": [
         "#00a692",
@@ -35,7 +35,7 @@
     },
     "frost": {
       "path": "images/frost.png",
-      "sha256": "c6a88468dc32728941aafb23abd2ee7547689207d811ecaaee1d97268c5959f3",
+      "sha256": "7a0c984cea24689ff55201cb90e2b263695fe5172b89a1e8d38ae5b19f429e76",
       "application": "gitui 0.28.1",
       "paletteColors": [
         "#0a1016",
@@ -50,7 +50,7 @@
     },
     "paper": {
       "path": "images/paper.png",
-      "sha256": "1cdfd1f888732f92d95f3a231b3d4a208d98aa71374e353f63e092a1fec37654",
+      "sha256": "3ca8f2d6105eb288883fcb0480c98c8004ff402598784a77eeeaa54fadb782fe",
       "application": "gitui 0.28.1",
       "paletteColors": [
         "#12171a",
@@ -64,7 +64,7 @@
     },
     "signal": {
       "path": "images/signal.png",
-      "sha256": "b0a3114221da4bc33feaad063a5cfcc78d3a5c2c9249a31e995ecbe16b89cc7c",
+      "sha256": "55d600fa61b285f6d117f6d93f359d1ec8a4a26f658838485038ee350e033684",
       "application": "gitui 0.28.1",
       "paletteColors": [
         "#00a692",
