@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "scene": "GitUI native status and diff view in the checked-in tiny project fixture.",
+  "versionCommand": [
+    "gitui",
+    "--version"
+  ],
+  "fixtures": []
+}

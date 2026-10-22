@@ -1,0 +1,12 @@
+{
+  "downloads": [
+    {
+      "source": "themes/living-code-{flavor}.ron",
+      "destination": "{config}/gitui/living-code-{flavor}.ron"
+    },
+    {
+      "source": "themes/living-code-{flavor}.tmTheme",
+      "destination": "{config}/gitui/living-code-{flavor}.tmTheme"
+    }
+  ]
+}

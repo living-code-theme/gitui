@@ -28,5 +28,10 @@
     "themes/living-code-signal.ron",
     "themes/living-code-signal.tmTheme"
   ],
-  "images": []
+  "images": [
+    { "flavor": "night", "path": "images/night.png", "alt": "GitUI running Living Code Night" },
+    { "flavor": "frost", "path": "images/frost.png", "alt": "GitUI running Living Code Frost" },
+    { "flavor": "paper", "path": "images/paper.png", "alt": "GitUI running Living Code Paper" },
+    { "flavor": "signal", "path": "images/signal.png", "alt": "GitUI running Living Code Signal" }
+  ]
 }
